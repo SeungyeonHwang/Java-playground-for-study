@@ -1,2 +1,4 @@
 rootProject.name = 'projects-to-study-java'
+include 'sample-module1'
+include 'sample-module2'
 

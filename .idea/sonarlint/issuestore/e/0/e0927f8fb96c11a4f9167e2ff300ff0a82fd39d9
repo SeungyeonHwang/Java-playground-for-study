@@ -1,0 +1,11 @@
+
+z
+java:S11492"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ôô¡Óüÿÿÿÿ
+ 
+java:S1130"‰Remove the declaration of thrown exception 'org.apache.http.client.ClientProtocolException' which is a subclass of 'java.io.IOException'.(«Ü½Ú
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(ÄÆ·¢
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(ÓóÂ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(ĞÙÀ‰ıÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ç÷o
+g
+java:S2095"QUse try-with-resources or close this "CloseableHttpClient" in a "finally" clause.(ıê”Ê
